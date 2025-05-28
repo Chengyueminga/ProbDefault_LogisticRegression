@@ -30,14 +30,11 @@ This project is designed for students and early-career analysts interested in:
 
 | Section | Description |
 |---------|-------------|
-| **1.1** | Introduction and teaching context |
-| **1.2** | Data overview and target variable |
-| **2.1** | Preprocessing and initial inspection |
-| **2.2** | Feature selection and transformations |
-| **2.3.1** | Logistic regression with `class_weight='balanced'` |
-| **2.3.2** | Threshold tuning and ROC visualization |
-| **3.3** | PD distribution and confusion matrix |
-| **Appendix A** | Annotated code blocks linked to each section |
+| **1** | Introduction and Teaching Context |
+| **2** | Dataset Overview and Pedagogical Considerations |
+| **3** | Building and Interpreting the Credit Scoring Model |
+| **4** | Conclusion and Teaching Takeaways |
+| **Appendix A** | Code blocks annotated by section for modular use |
 
 ---
 
